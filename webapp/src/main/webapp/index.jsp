@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying with jenkins pipeline using git, docker ansible, kubernetes</h2>
+<h1> Gary's simple DevOps project</h1>
+<h2> Deploying with jenkins pipeline using git, docker, ansible, and kubernetes.</h2>
